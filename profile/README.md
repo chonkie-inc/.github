@@ -21,6 +21,6 @@ We believe in creating tools that "just work" and streamline the development pro
 At our core, Chonkie-inc is currently a passionate two-person startup:
 
 *   [Bhavnick Minhas](https://github.com/chonknick)
-*   [Shreyash Nigam](https://github.com/shreyash-nigam)
+*   [Shreyash Nigam](https://github.com/shreyash-chonkie)
 
 We're excited about the future of AI development and are committed to contributing efficient and effective tools to the community!
