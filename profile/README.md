@@ -8,9 +8,9 @@ Our journey started with tackling the text chunking problem, leading to the crea
 
 Beyond chunking, we're actively exploring and working on other critical areas within the AI ecosystem, including:
 
-*   Tokenizers
 *   Retrieval-Augmented Generation (RAG)
-*   Embeddings
+*   Tokenizers
+*   Embeddings & Embedding Models
 
 We believe in creating tools that "just work" and streamline the development process for AI practitioners.
 
@@ -20,7 +20,7 @@ We believe in creating tools that "just work" and streamline the development pro
 
 At our core, Chonkie-inc is currently a passionate two-person startup:
 
-*   [Bhavnick Minhas](https://github.com/bhavnicksm)
+*   [Bhavnick Minhas](https://github.com/chonknick)
 *   [Shreyash Nigam](https://github.com/shreyash-nigam)
 
 We're excited about the future of AI development and are committed to contributing efficient and effective tools to the community!
