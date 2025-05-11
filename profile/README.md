@@ -10,7 +10,7 @@ At Chonkie-inc, we're focused on building developer tools for the modern AI stac
 
 Our journey started with tackling the text chunking problem, leading to the creation of our flagship library:
 
-- **[Chonkie](https://github.com/chonkie-inc/chonkie)**: The no-nonsense, ultra-light, and lightning-fast chunking library. 🦛✨
+- **[Chonkie](https://github.com/chonkie-inc/chonkie) ([py](https://pypi.org/project/chonkie), [ts](https://www.npmjs.com/package/chonkie))**: The no-nonsense, ultra-light, and lightning-fast chunking library. 🦛✨
 
 Beyond chunking, we're actively exploring and working on other critical areas within the AI ecosystem, including:
 
