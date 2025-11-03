@@ -24,9 +24,10 @@ We believe in creating tools that "just work" and streamline the development pro
 
 **Meet the Team:**
 
-At our core, Chonkie-inc is currently a passionate two-person startup:
+At our core, Chonkie-inc is currently a passionate three-person startup:
 
 - [Bhavnick Minhas](https://github.com/chonknick)
 - [Shreyash Nigam](https://github.com/shreyash-chonkie)
+- [Hafedh Hichri](https://github.com/chonk-lain)
 
 We're excited about the future of AI development and are committed to contributing efficient and effective tools to the community!
