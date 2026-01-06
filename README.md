@@ -4,7 +4,8 @@ At Chonkie-inc, we're focused on building developer tools for the modern AI stac
 
 Our journey started with tackling the text chunking problem, leading to the creation of our flagship library:
 
-*   **[Chonkie](https://github.com/chonkie-inc/chonkie)**: The no-nonsense, ultra-light, and lightning-fast chunking library. 🦛✨
+- **[Chonkie](https://github.com/chonkie-inc/chonkie)**: The no-nonsense, ultra-light, and lightning-fast chunking library. 🦛✨
+- **[Memchunk](https://github.com/chonkie-inc/memchunk):** Blazingly fast text chunker to chunk text at upto 1TB/s 🚀
 
 Beyond chunking, we're actively exploring and working on other critical areas within the AI ecosystem, including:
 
