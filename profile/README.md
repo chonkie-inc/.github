@@ -8,16 +8,11 @@
 
 At Chonkie-inc, we're focused on building developer tools for the modern AI stack that are **simple to use** and **performant where it matters**.
 
-Our journey started with tackling the text chunking problem, leading to the creation of our flagship library:
+We're known for building strong technical products for the benefit of all, like: 
 
-- **[Chonkie](https://github.com/chonkie-inc/chonkie) ([py](https://pypi.org/project/chonkie), [ts](https://www.npmjs.com/package/chonkie))**: The no-nonsense, ultra-light, and lightning-fast chunking library. 🦛✨
+- **[Chonkie](https://github.com/chonkie-inc/chonkie)** ([py](https://pypi.org/project/chonkie/), [js](https://www.npmjs.com/package/chonkie), [rs](https://crates.io/crates/chonkie)): The no-nonsense, ultra-light, and lightning-fast chunking library. 🦛✨
 - **[Catsu](https://github.com/chonkie-inc/catsu):** One embedding client and database for all your embedding needs! 🐱🍛
-
-Beyond chunking, we're actively exploring and working on other critical areas within the AI ecosystem, including:
-
-- Retrieval-Augmented Generation (RAG)
-- Embeddings and Embedding Models
-- Tokenizers
+- **[Memchunk](https://github.com/chonkie-inc/memchunk):** Blazingly fast text chunker to chunk text at upto 1TB/s 🚀
 
 We believe in creating tools that "just work" and streamline the development process for AI practitioners.
 
