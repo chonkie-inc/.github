@@ -1,29 +1,29 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/chonkie_logo_br_transparent_bg.png" alt="Chonkie Logo">
+  <h2 align="center">Chonkie</h2>
+  <p align="center">
+    Developer tools for the modern AI stack — simple to use, performant where it matters.
+    <br />
+    <br />
+    <a href="https://discord.gg/vH3SkRqmUz">Discord</a>
+    ·
+    <a href="https://chonkie.ai">Website</a>
+    ·
+    <a href="https://github.com/chonkie-inc/chonkie/issues">Issues</a>
+  </p>
 
-![Chonkie-inc Logo](./assets/chonkie_logo_br_transparent_bg.png)
+<p align="center">
 
-# Welcome to Chonkie-inc! 👋
+[![Downloads](https://img.shields.io/pepy/dt/chonkie?style=flat&colorA=5C4033&colorB=8B6914)](https://pepy.tech/project/chonkie)
+[![PyPI version](https://img.shields.io/pypi/v/chonkie.svg?style=flat&colorA=5C4033&colorB=8B6914)](https://pypi.org/project/chonkie/)
+[![GitHub stars](https://img.shields.io/github/stars/chonkie-inc/chonkie?style=flat&colorA=5C4033&colorB=8B6914)](https://github.com/chonkie-inc/chonkie/stargazers)
 
-</div>
+</p>
+</p>
 
-At Chonkie-inc, we're focused on building developer tools for the modern AI stack that are **simple to use** and **performant where it matters**.
+## What we build
 
-We're known for building strong technical products for the benefit of all, like: 
-
-- **[Chonkie](https://github.com/chonkie-inc/chonkie)** ([py](https://pypi.org/project/chonkie/), [js](https://www.npmjs.com/package/chonkie), [rs](https://crates.io/crates/chonkie)): The no-nonsense, ultra-light, and lightning-fast chunking library. 🦛✨
-- **[Catsu](https://github.com/chonkie-inc/catsu):** One embedding client and database for all your embedding needs! 🐱🍛
-- **[Memchunk](https://github.com/chonkie-inc/memchunk):** Blazingly fast text chunker to chunk text at upto 1TB/s 🚀
-
-We believe in creating tools that "just work" and streamline the development process for AI practitioners.
-
----
-
-**Meet the Team:**
-
-At our core, Chonkie-inc is currently a passionate three-person startup:
-
-- [Bhavnick Minhas](https://github.com/chonknick)
-- [Shreyash Nigam](https://github.com/shreyash-chonkie)
-- [Hafedh Hichri](https://github.com/chonk-lain)
-
-We're excited about the future of AI development and are committed to contributing efficient and effective tools to the community!
+- **[Chonkie](https://github.com/chonkie-inc/chonkie)** ([py](https://pypi.org/project/chonkie/), [js](https://www.npmjs.com/package/chonkie), [rs](https://crates.io/crates/chonkie)) — The no-nonsense, ultra-light, and lightning-fast chunking library. 🦛✨
+- **[Catsu](https://github.com/chonkie-inc/catsu)** — One embedding client and database for all your embedding needs! 🐱🍛
+- **[Memchunk](https://github.com/chonkie-inc/memchunk)** — Blazingly fast text chunker to chunk text at up to 1TB/s 🚀
+- **[Mandex](https://github.com/chonkie-inc/mandex)** — Blazingly fast documentation access for AI agents — local-first, version-matched, and free forever. 📑🤖
