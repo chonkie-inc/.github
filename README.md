@@ -9,13 +9,14 @@
 
 </div>
 
-At Chonkie-inc, we're focused on building developer tools for the modern AI stack that are **simple to use** and **performant where it matters**.
+At Feyn, we're focused on building developer tools for the modern AI stack that are **simple to use** and **performant where it matters**.
 
 We're known for building strong technical products, like:
 
-- **[Chonkie](https://github.com/chonkie-inc/chonkie)** ([py](https://pypi.org/project/chonkie/), [js](https://www.npmjs.com/package/chonkie), [rs](https://crates.io/crates/chonkie)): The no-nonsense, ultra-light, and lightning-fast chunking library. 🦛✨
-- **[Catsu](https://github.com/chonkie-inc/catsu):** One embedding client and database for all your embedding needs! 🐱🍛
-- **[Memchunk](https://github.com/chonkie-inc/memchunk):** Blazingly fast text chunker to chunk text at upto 1TB/s 🚀
+- **[Chonkie](https://github.com/feyninc/chonkie)** ([py](https://pypi.org/project/chonkie/), [js](https://www.npmjs.com/package/chonkie), [rs](https://crates.io/crates/chonkie)): The no-nonsense, ultra-light, and lightning-fast chunking library. 🦛✨
+- **[Pulpie](https://github.com/feyninc/pulpie):** Pareto-optimal models for cleaning the web — SOTA extraction quality at one twentieth the cost. 🍊✨
+- **[Catsu](https://github.com/feyninc/catsu):** One embedding client and database for all your embedding needs! 🐱🍛
+- **[Memchunk](https://github.com/feyninc/memchunk):** Blazingly fast text chunker to chunk text at upto 1TB/s 🚀
 
 We believe in creating tools that "just work" and streamline the development process for AI practitioners.
 
@@ -23,7 +24,7 @@ We believe in creating tools that "just work" and streamline the development pro
 
 **Meet the Team:**
 
-At our core, Chonkie-inc is currently a passionate three-person startup:
+At our core, Feyn is currently a passionate three-person startup:
 
 - [Bhavnick Minhas](https://github.com/chonknick)
 - [Shreyash Nigam](https://github.com/shreyash-chonkie)
