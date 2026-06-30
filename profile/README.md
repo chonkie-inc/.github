@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="./assets/chonkie_logo_br_transparent_bg.png" alt="Chonkie Logo">
-  <h2 align="center">Chonkie</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/feyn-banner-dark.png">
+    <img src="./assets/feyn-banner-light.png" alt="Feyn" width="640">
+  </picture>
+  <h2 align="center">Feyn</h2>
   <p align="center">
     Developer tools for the modern AI stack — simple to use, performant where it matters.
     <br />

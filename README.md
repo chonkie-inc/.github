@@ -1,8 +1,11 @@
 <div align="center">
 
-![Chonkie-inc Logo](./assets/chonkie_logo_br_transparent_bg.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/assets/feyn-banner-dark.png">
+  <img src="./profile/assets/feyn-banner-light.png" alt="Feyn" width="640">
+</picture>
 
-# Welcome to Chonkie-inc! 👋
+# Welcome to Feyn! 👋
 
 </div>
 
